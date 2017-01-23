@@ -1,0 +1,19 @@
+﻿---
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: 'false'
+AllowShortCaseLabelsOnASingleLine: 'false'
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: 'false'
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Allman
+BreakConstructorInitializersBeforeComma: 'true'
+ColumnLimit: '120'
+ConstructorInitializerAllOnOneLineOrOnePerLine: 'false'
+ConstructorInitializerIndentWidth: '0'
+IndentWidth: '4'
+NamespaceIndentation: All
+SortIncludes: 'true'
+Standard: Cpp03
+UseTab: Never
+
+...
